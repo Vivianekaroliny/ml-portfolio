@@ -1,8 +1,8 @@
 # ML Portfolio — Viviane Caroline
 
-Professora de matemática construindo uma carreira em 
+Professora de matemática construindo uma carreira em
 Machine Learning Engineering.
-23 dias de estudo consistente · 4 projetos · 2 certificados
+30 dias de estudo consistente · 5 projetos · 2 certificados
 
 ---
 
@@ -24,13 +24,19 @@ Reduz dimensões e classifica alunos por perfil.
 Detecta alunos em risco usando estatística e ML.
 **Conceitos:** correlação, normalização, PCA, alertas
 
+### 📊 Projeto 5 — Comparador de Algoritmos ML
+Compara 6 algoritmos com cross-validation 5-fold.
+**Conceitos:** Regressão Logística, Árvore, Random Forest,
+KNN, SVM, cross-validation, sklearn
+
 ---
 
 ## Certificados
 - ✅ AI Fluency: Framework & Foundations — Anthropic (2026)
+- ✅ Claude 101 — Anthropic (2026)
 
 ## Tecnologias
-Python · NumPy · Matplotlib · GitHub
+Python · NumPy · Matplotlib · scikit-learn · GitHub
 
 ## Contato
 github.com/Vivianekaroliny
